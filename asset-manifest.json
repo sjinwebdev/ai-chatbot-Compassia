@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ai-chatbot-Compassia/static/css/main.0db1d1a6.css",
+    "main.js": "/ai-chatbot-Compassia/static/js/main.d08b5c5a.js",
+    "static/media/blog01.png": "/ai-chatbot-Compassia/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/ai-chatbot-Compassia/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/ai-chatbot-Compassia/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/possibility_3.png": "/ai-chatbot-Compassia/static/media/possibility_3.8b95d8d8fc907be973a2.png",
+    "static/media/blog05.png": "/ai-chatbot-Compassia/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/ai-chatbot-Compassia/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/ai_3.png": "/ai-chatbot-Compassia/static/media/ai_3.cf7633d1dbdbc987c449.png",
+    "static/media/compassia.svg": "/ai-chatbot-Compassia/static/media/compassia.38cb1f45b89d1907871a6ba111d9184e.svg",
+    "static/media/people.png": "/ai-chatbot-Compassia/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/ai-chatbot-Compassia/index.html",
+    "main.0db1d1a6.css.map": "/ai-chatbot-Compassia/static/css/main.0db1d1a6.css.map",
+    "main.d08b5c5a.js.map": "/ai-chatbot-Compassia/static/js/main.d08b5c5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0db1d1a6.css",
+    "static/js/main.d08b5c5a.js"
+  ]
+}
